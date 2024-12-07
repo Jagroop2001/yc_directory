@@ -1,4 +1,4 @@
-import SearchFrom from "@/app/components/SearchFrom";
+import SearchFrom from "@/components/SearchFrom";
 
 
 export default async function Home({ searchParams }: { searchParams: { query: string } }) {
